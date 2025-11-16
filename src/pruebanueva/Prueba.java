@@ -7,4 +7,9 @@ public class Prueba {
 //codigo
 	}
 
+	public int cuantasVeces(int[]lista, int numero) {
+		int indice=0;
+		return cuantasVeces(lista, numero, indice);
+	}
+	private int cuantasVeces
 }
